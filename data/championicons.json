@@ -1,0 +1,944 @@
+[
+ {
+   "ID": "Aatrox",
+   "EMOJIREVEALER": "\\:Aatrox:",
+   "KEY": 266,
+   "EMOJICODE": "<:Aatrox:915338128296902666>"
+ },
+ {
+   "ID": "Ahri",
+   "EMOJIREVEALER": "\\:Ahri:",
+   "KEY": 103,
+   "EMOJICODE": "<:Ahri:915338127755862147>"
+ },
+ {
+   "ID": "Akali",
+   "EMOJIREVEALER": "\\:Akali:",
+   "KEY": 84,
+   "EMOJICODE": "<:Akali:915338128166912031>"
+ },
+ {
+   "ID": "Akshan",
+   "EMOJIREVEALER": "\\:Akshan:",
+   "KEY": 166,
+   "EMOJICODE": "<:Akshan:915338128259158027>"
+ },
+ {
+   "ID": "Alistar",
+   "EMOJIREVEALER": "\\:Alistar:",
+   "KEY": 12,
+   "EMOJICODE": "<:Alistar:915338128166895636>"
+ },
+ {
+   "ID": "Amumu",
+   "EMOJIREVEALER": "\\:Amumu:",
+   "KEY": 32,
+   "EMOJICODE": "<:Amumu:915338128183660674>"
+ },
+ {
+   "ID": "Anivia",
+   "EMOJIREVEALER": "\\:Anivia:",
+   "KEY": 34,
+   "EMOJICODE": "<:Anivia:915338128280125501>"
+ },
+ {
+   "ID": "Annie",
+   "EMOJIREVEALER": "\\:Annie:",
+   "KEY": 1,
+   "EMOJICODE": "<:Annie:915338128284323850>"
+ },
+ {
+   "ID": "Aphelios",
+   "EMOJIREVEALER": "\\:Aphelios:",
+   "KEY": 523,
+   "EMOJICODE": "<:Aphelios:915338128506642462>"
+ },
+ {
+   "ID": "Ashe",
+   "EMOJIREVEALER": "\\:Ashe:",
+   "KEY": 22,
+   "EMOJICODE": "<:Ashe:915338128254971924>"
+ },
+ {
+   "ID": "AurelionSol",
+   "EMOJIREVEALER": "\\:AurelionSol:",
+   "KEY": 136,
+   "EMOJICODE": "<:AurelionSol:915338128280145981>"
+ },
+ {
+   "ID": "Azir",
+   "EMOJIREVEALER": "\\:Azir:",
+   "KEY": 268,
+   "EMOJICODE": "<:Azir:915338129425178655>"
+ },
+ {
+   "ID": "Bard",
+   "EMOJIREVEALER": "\\:Bard:",
+   "KEY": 432,
+   "EMOJICODE": "<:Bard:915338129420988456>"
+ },
+ {
+   "ID": "Blitzcrank",
+   "EMOJIREVEALER": "\\:Blitzcrank:",
+   "KEY": 53,
+   "EMOJICODE": "<:Blitzcrank:915338128422760498>"
+ },
+ {
+   "ID": "Brand",
+   "EMOJIREVEALER": "\\:Brand:",
+   "KEY": 63,
+   "EMOJICODE": "<:Brand:915338128489844867>"
+ },
+ {
+   "ID": "Braum",
+   "EMOJIREVEALER": "\\:Braum:",
+   "KEY": 201,
+   "EMOJICODE": "<:Braum:915338129429381190>"
+ },
+ {
+   "ID": "Caitlyn",
+   "EMOJIREVEALER": "\\:Caitlyn:",
+   "KEY": 51,
+   "EMOJICODE": "<:Caitlyn:915338129609744425>"
+ },
+ {
+   "ID": "Camille",
+   "EMOJIREVEALER": "\\:Camille:",
+   "KEY": 164,
+   "EMOJICODE": "<:Camille:915338128645062676>"
+ },
+ {
+   "ID": "Cassiopeia",
+   "EMOJIREVEALER": "\\:Cassiopeia:",
+   "KEY": 69,
+   "EMOJICODE": "<:Cassiopeia:915338128594718730>"
+ },
+ {
+   "ID": "Chogath",
+   "EMOJIREVEALER": "\\:Chogath:",
+   "KEY": 31,
+   "EMOJICODE": "<:Chogath:915338129567793193>"
+ },
+ {
+   "ID": "Corki",
+   "EMOJIREVEALER": "\\:Corki:",
+   "KEY": 42,
+   "EMOJICODE": "<:Corki:915338128296910909>"
+ },
+ {
+   "ID": "Darius",
+   "EMOJIREVEALER": "\\:Darius:",
+   "KEY": 122,
+   "EMOJICODE": "<:Darius:915338129244815392>"
+ },
+ {
+   "ID": "Diana",
+   "EMOJIREVEALER": "\\:Diana:",
+   "KEY": 131,
+   "EMOJICODE": "<:Diana:915338128632467507>"
+ },
+ {
+   "ID": "Draven",
+   "EMOJIREVEALER": "\\:Draven:",
+   "KEY": 119,
+   "EMOJICODE": "<:Draven:915338129622306906>"
+ },
+ {
+   "ID": "DrMundo",
+   "EMOJIREVEALER": "\\:DrMundo:",
+   "KEY": 36,
+   "EMOJICODE": "<:DrMundo:915338129634893824>"
+ },
+ {
+   "ID": "Ekko",
+   "EMOJIREVEALER": "\\:Ekko:",
+   "KEY": 245,
+   "EMOJICODE": "<:Ekko:915338129546838076>"
+ },
+ {
+   "ID": "Elise",
+   "EMOJIREVEALER": "\\:Elise:",
+   "KEY": 60,
+   "EMOJICODE": "<:Elise:915338128837984306>"
+ },
+ {
+   "ID": "Evelynn",
+   "EMOJIREVEALER": "\\:Evelynn:",
+   "KEY": 28,
+   "EMOJICODE": "<:Evelynn:915338129592942592>"
+ },
+ {
+   "ID": "Ezreal",
+   "EMOJIREVEALER": "\\:Ezreal:",
+   "KEY": 81,
+   "EMOJICODE": "<:Ezreal:915338129626525736>"
+ },
+ {
+   "ID": "Fiddlesticks",
+   "EMOJIREVEALER": "\\:Fiddlesticks:",
+   "KEY": 9,
+   "EMOJICODE": "<:Fiddlesticks:915338129223847977>"
+ },
+ {
+   "ID": "Fiora",
+   "EMOJIREVEALER": "\\:Fiora:",
+   "KEY": 114,
+   "EMOJICODE": "<:Fiora:915338128917663784>"
+ },
+ {
+   "ID": "Fizz",
+   "EMOJIREVEALER": "\\:Fizz:",
+   "KEY": 105,
+   "EMOJICODE": "<:Fizz:915338129081270333>"
+ },
+ {
+   "ID": "Galio",
+   "EMOJIREVEALER": "\\:Galio:",
+   "KEY": 3,
+   "EMOJICODE": "<:Galio:915338129584562196>"
+ },
+ {
+   "ID": "Gangplank",
+   "EMOJIREVEALER": "\\:Gangplank:",
+   "KEY": 41,
+   "EMOJICODE": "<:Gangplank:915338129697804318>"
+ },
+ {
+   "ID": "Garen",
+   "EMOJIREVEALER": "\\:Garen:",
+   "KEY": 86,
+   "EMOJICODE": "<:Garen:915338129341288459>"
+ },
+ {
+   "ID": "Gnar",
+   "EMOJIREVEALER": "\\:Gnar:",
+   "KEY": 150,
+   "EMOJICODE": "<:Gnar:915338129412620298>"
+ },
+ {
+   "ID": "Gragas",
+   "EMOJIREVEALER": "\\:Gragas:",
+   "KEY": 79,
+   "EMOJICODE": "<:Gragas:915338129609724004>"
+ },
+ {
+   "ID": "Graves",
+   "EMOJIREVEALER": "\\:Graves:",
+   "KEY": 104,
+   "EMOJICODE": "<:Graves:915338129597153280>"
+ },
+ {
+   "ID": "Gwen",
+   "EMOJIREVEALER": "\\:Gwen:",
+   "KEY": 887,
+   "EMOJICODE": "<:Gwen:915338129769111572>"
+ },
+ {
+   "ID": "Hecarim",
+   "EMOJIREVEALER": "\\:Hecarim:",
+   "KEY": 120,
+   "EMOJICODE": "<:Hecarim:915338129597161502>"
+ },
+ {
+   "ID": "Heimerdinger",
+   "EMOJIREVEALER": "\\:Heimerdinger:",
+   "KEY": 74,
+   "EMOJICODE": "<:Heimerdinger:915343874187223113>"
+ },
+ {
+   "ID": "Illaoi",
+   "EMOJIREVEALER": "\\:Illaoi:",
+   "KEY": 420,
+   "EMOJICODE": "<:Illaoi:915338129681047582>"
+ },
+ {
+   "ID": "Irelia",
+   "EMOJIREVEALER": "\\:Irelia:",
+   "KEY": 39,
+   "EMOJICODE": "<:Irelia:915338129811071037>"
+ },
+ {
+   "ID": "Ivern",
+   "EMOJIREVEALER": "\\:Ivern:",
+   "KEY": 427,
+   "EMOJICODE": "<:Ivern:915338129148375051>"
+ },
+ {
+   "ID": "Janna",
+   "EMOJIREVEALER": "\\:Janna:",
+   "KEY": 40,
+   "EMOJICODE": "<:Janna:915338129026744381>"
+ },
+ {
+   "ID": "JarvanIV",
+   "EMOJIREVEALER": "\\:JarvanIV:",
+   "KEY": 59,
+   "EMOJICODE": "<:JarvanIV:915338129752338504>"
+ },
+ {
+   "ID": "Jax",
+   "EMOJIREVEALER": "\\:Jax:",
+   "KEY": 24,
+   "EMOJICODE": "<:Jax:915338129702027284>"
+ },
+ {
+   "ID": "Jayce",
+   "EMOJIREVEALER": "\\:Jayce:",
+   "KEY": 126,
+   "EMOJICODE": "<:Jayce:915338129500667964>"
+ },
+ {
+   "ID": "Jhin",
+   "EMOJIREVEALER": "\\:Jhin:",
+   "KEY": 202,
+   "EMOJICODE": "<:Jhin:915338129492279407>"
+ },
+ {
+   "ID": "Jinx",
+   "EMOJIREVEALER": "\\:Jinx:",
+   "KEY": 222,
+   "EMOJICODE": "<:Jinx:915338129420984331>"
+ },
+ {
+   "ID": "Kaisa",
+   "EMOJIREVEALER": "\\:Kaisa:",
+   "KEY": 145,
+   "EMOJICODE": "<:Kaisa:915338761691332658>"
+ },
+ {
+   "ID": "Kalista",
+   "EMOJIREVEALER": "\\:Kalista:",
+   "KEY": 429,
+   "EMOJICODE": "<:Kalista:915338767391416351>"
+ },
+ {
+   "ID": "Karma",
+   "EMOJIREVEALER": "\\:Karma:",
+   "KEY": 43,
+   "EMOJICODE": "<:Karma:915338767995396117>"
+ },
+ {
+   "ID": "Karthus",
+   "EMOJIREVEALER": "\\:Karthus:",
+   "KEY": 30,
+   "EMOJICODE": "<:Karthus:915338768288993290>"
+ },
+ {
+   "ID": "Kassadin",
+   "EMOJIREVEALER": "\\:Kassadin:",
+   "KEY": 38,
+   "EMOJICODE": "<:Kassadin:915338768289005599>"
+ },
+ {
+   "ID": "Katarina",
+   "EMOJIREVEALER": "\\:Katarina:",
+   "KEY": 55,
+   "EMOJICODE": "<:Katarina:915338768259633162>"
+ },
+ {
+   "ID": "Kayle",
+   "EMOJIREVEALER": "\\:Kayle:",
+   "KEY": 10,
+   "EMOJICODE": "<:Kayle:915338767982788670>"
+ },
+ {
+   "ID": "Kayn",
+   "EMOJIREVEALER": "\\:Kayn:",
+   "KEY": 141,
+   "EMOJICODE": "<:Kayn:915338768255438848>"
+ },
+ {
+   "ID": "Kennen",
+   "EMOJIREVEALER": "\\:Kennen:",
+   "KEY": 85,
+   "EMOJICODE": "<:Kennen:915338768259625041>"
+ },
+ {
+   "ID": "Khazix",
+   "EMOJIREVEALER": "\\:Khazix:",
+   "KEY": 121,
+   "EMOJICODE": "<:Khazix:915338768339329064>"
+ },
+ {
+   "ID": "Kindred",
+   "EMOJIREVEALER": "\\:Kindred:",
+   "KEY": 203,
+   "EMOJICODE": "<:Kindred:915338768616128522>"
+ },
+ {
+   "ID": "Kled",
+   "EMOJIREVEALER": "\\:Kled:",
+   "KEY": 240,
+   "EMOJICODE": "<:Kled:915338768532267048>"
+ },
+ {
+   "ID": "KogMaw",
+   "EMOJIREVEALER": "\\:KogMaw:",
+   "KEY": 96,
+   "EMOJICODE": "<:KogMaw:915338768498708550>"
+ },
+ {
+   "ID": "Leblanc",
+   "EMOJIREVEALER": "\\:Leblanc:",
+   "KEY": 7,
+   "EMOJICODE": "<:Leblanc:915338768247029801>"
+ },
+ {
+   "ID": "LeeSin",
+   "EMOJIREVEALER": "\\:LeeSin:",
+   "KEY": 64,
+   "EMOJICODE": "<:LeeSin:915338768423194675>"
+ },
+ {
+   "ID": "Leona",
+   "EMOJIREVEALER": "\\:Leona:",
+   "KEY": 89,
+   "EMOJICODE": "<:Leona:915338768234467330>"
+ },
+ {
+   "ID": "Lillia",
+   "EMOJIREVEALER": "\\:Lillia:",
+   "KEY": 876,
+   "EMOJICODE": "<:Lillia:915338768720994324>"
+ },
+ {
+   "ID": "Lissandra",
+   "EMOJIREVEALER": "\\:Lissandra:",
+   "KEY": 127,
+   "EMOJICODE": "<:Lissandra:915338768729374720>"
+ },
+ {
+   "ID": "Lucian",
+   "EMOJIREVEALER": "\\:Lucian:",
+   "KEY": 236,
+   "EMOJICODE": "<:Lucian:915338768825872414>"
+ },
+ {
+   "ID": "Lulu",
+   "EMOJIREVEALER": "\\:Lulu:",
+   "KEY": 117,
+   "EMOJICODE": "<:Lulu:915338768771317832>"
+ },
+ {
+   "ID": "Lux",
+   "EMOJIREVEALER": "\\:Lux:",
+   "KEY": 99,
+   "EMOJICODE": "<:Lux:915338768897146910>"
+ },
+ {
+   "ID": "Malphite",
+   "EMOJIREVEALER": "\\:Malphite:",
+   "KEY": 54,
+   "EMOJICODE": "<:Malphite:915338768851026010>"
+ },
+ {
+   "ID": "Malzahar",
+   "EMOJIREVEALER": "\\:Malzahar:",
+   "KEY": 90,
+   "EMOJICODE": "<:Malzahar:915338768842649670>"
+ },
+ {
+   "ID": "Maokai",
+   "EMOJIREVEALER": "\\:Maokai:",
+   "KEY": 57,
+   "EMOJICODE": "<:Maokai:915338769014591548>"
+ },
+ {
+   "ID": "MasterYi",
+   "EMOJIREVEALER": "\\:MasterYi:",
+   "KEY": 11,
+   "EMOJICODE": "<:MasterYi:915338768960090153>"
+ },
+ {
+   "ID": "MissFortune",
+   "EMOJIREVEALER": "\\:MissFortune:",
+   "KEY": 21,
+   "EMOJICODE": "<:MissFortune:915338768561627137>"
+ },
+ {
+   "ID": "MonkeyKing",
+   "EMOJIREVEALER": "\\:MonkeyKing:",
+   "KEY": 62,
+   "EMOJICODE": "<:MonkeyKing:915338768964276334>"
+ },
+ {
+   "ID": "Mordekaiser",
+   "EMOJIREVEALER": "\\:Mordekaiser:",
+   "KEY": 82,
+   "EMOJICODE": "<:Mordekaiser:915338769052352573>"
+ },
+ {
+   "ID": "Morgana",
+   "EMOJIREVEALER": "\\:Morgana:",
+   "KEY": 25,
+   "EMOJICODE": "<:Morgana:915338769006223370>"
+ },
+ {
+   "ID": "Nami",
+   "EMOJIREVEALER": "\\:Nami:",
+   "KEY": 267,
+   "EMOJICODE": "<:Nami:915338769165615144>"
+ },
+ {
+   "ID": "Nasus",
+   "EMOJIREVEALER": "\\:Nasus:",
+   "KEY": 75,
+   "EMOJICODE": "<:Nasus:915338769429835776>"
+ },
+ {
+   "ID": "Nautilus",
+   "EMOJIREVEALER": "\\:Nautilus:",
+   "KEY": 111,
+   "EMOJICODE": "<:Nautilus:915338768972648449>"
+ },
+ {
+   "ID": "Neeko",
+   "EMOJIREVEALER": "\\:Neeko:",
+   "KEY": 518,
+   "EMOJICODE": "<:Neeko:915338769178198117>"
+ },
+ {
+   "ID": "Nidalee",
+   "EMOJIREVEALER": "\\:Nidalee:",
+   "KEY": 76,
+   "EMOJICODE": "<:Nidalee:915338769270472784>"
+ },
+ {
+   "ID": "Nocturne",
+   "EMOJIREVEALER": "\\:Nocturne:",
+   "KEY": 56,
+   "EMOJICODE": "<:Nocturne:915338768838434877>"
+ },
+ {
+   "ID": "Nunu",
+   "EMOJIREVEALER": "\\:Nunu:",
+   "KEY": 20,
+   "EMOJICODE": "<:Nunu:915338768892960800>"
+ },
+ {
+   "ID": "Olaf",
+   "EMOJIREVEALER": "\\:Olaf:",
+   "KEY": 2,
+   "EMOJICODE": "<:Olaf:915338769274662973>"
+ },
+ {
+   "ID": "Orianna",
+   "EMOJIREVEALER": "\\:Orianna:",
+   "KEY": 61,
+   "EMOJICODE": "<:Orianna:915338767060041740>"
+ },
+ {
+   "ID": "Ornn",
+   "EMOJIREVEALER": "\\:Ornn:",
+   "KEY": 516,
+   "EMOJICODE": "<:Ornn:915338769350144060>"
+ },
+ {
+   "ID": "Pantheon",
+   "EMOJIREVEALER": "\\:Pantheon:",
+   "KEY": 80,
+   "EMOJICODE": "<:Pantheon:915338769471766578>"
+ },
+ {
+   "ID": "Poppy",
+   "EMOJIREVEALER": "\\:Poppy:",
+   "KEY": 78,
+   "EMOJICODE": "<:Poppy:915338769438220358>"
+ },
+ {
+   "ID": "Pyke",
+   "EMOJIREVEALER": "\\:Pyke:",
+   "KEY": 555,
+   "EMOJICODE": "<:Pyke:915338769111076905>"
+ },
+ {
+   "ID": "Qiyana",
+   "EMOJIREVEALER": "\\:Qiyana:",
+   "KEY": 246,
+   "EMOJICODE": "<:Qiyana:915338769429823539>"
+ },
+ {
+   "ID": "Quinn",
+   "EMOJIREVEALER": "\\:Quinn:",
+   "KEY": 133,
+   "EMOJICODE": "<:Quinn:915338769593401454>"
+ },
+ {
+   "ID": "Rakan",
+   "EMOJIREVEALER": "\\:Rakan:",
+   "KEY": 497,
+   "EMOJICODE": "<:Rakan:915338769622794250>"
+ },
+ {
+   "ID": "Rammus",
+   "EMOJIREVEALER": "\\:Rammus:",
+   "KEY": 33,
+   "EMOJICODE": "<:Rammus:915338769425641523>"
+ },
+ {
+   "ID": "RekSai",
+   "EMOJIREVEALER": "\\:RekSai:",
+   "KEY": 421,
+   "EMOJICODE": "<:RekSai:915338769597607957>"
+ },
+ {
+   "ID": "Rell",
+   "EMOJIREVEALER": "\\:Rell:",
+   "KEY": 526,
+   "EMOJICODE": "<:Rell:915338769694076928>"
+ },
+ {
+   "ID": "Renekton",
+   "EMOJIREVEALER": "\\:Renekton:",
+   "KEY": 58,
+   "EMOJICODE": "<:Renekton:915343892109488218>"
+ },
+ {
+   "ID": "Rengar",
+   "EMOJIREVEALER": "\\:Rengar:",
+   "KEY": 107,
+   "EMOJICODE": "<:Rengar:915338769585045564>"
+ },
+ {
+   "ID": "Riven",
+   "EMOJIREVEALER": "\\:Riven:",
+   "KEY": 92,
+   "EMOJICODE": "<:Riven:915339029724164106>"
+ },
+ {
+   "ID": "Rumble",
+   "EMOJIREVEALER": "\\:Rumble:",
+   "KEY": 68,
+   "EMOJICODE": "<:Rumble:915339029946433636>"
+ },
+ {
+   "ID": "Ryze",
+   "EMOJIREVEALER": "\\:Ryze:",
+   "KEY": 13,
+   "EMOJICODE": "<:Ryze:915339030995038208>"
+ },
+ {
+   "ID": "Samira",
+   "EMOJIREVEALER": "\\:Samira:",
+   "KEY": 360,
+   "EMOJICODE": "<:Samira:915339032794398791>"
+ },
+ {
+   "ID": "Sejuani",
+   "EMOJIREVEALER": "\\:Sejuani:",
+   "KEY": 113,
+   "EMOJICODE": "<:Sejuani:915339033750671440>"
+ },
+ {
+   "ID": "Senna",
+   "EMOJIREVEALER": "\\:Senna:",
+   "KEY": 235,
+   "EMOJICODE": "<:Senna:915339033746473000>"
+ },
+ {
+   "ID": "Seraphine",
+   "EMOJIREVEALER": "\\:Seraphine:",
+   "KEY": 147,
+   "EMOJICODE": "<:Seraphine:915339033821974588>"
+ },
+ {
+   "ID": "Sett",
+   "EMOJIREVEALER": "\\:Sett:",
+   "KEY": 875,
+   "EMOJICODE": "<:Sett:915339034006532136>"
+ },
+ {
+   "ID": "Shaco",
+   "EMOJIREVEALER": "\\:Shaco:",
+   "KEY": 35,
+   "EMOJICODE": "<:Shaco:915339033511620699>"
+ },
+ {
+   "ID": "Shen",
+   "EMOJIREVEALER": "\\:Shen:",
+   "KEY": 98,
+   "EMOJICODE": "<:Shen:915339033759076362>"
+ },
+ {
+   "ID": "Shyvana",
+   "EMOJIREVEALER": "\\:Shyvana:",
+   "KEY": 102,
+   "EMOJICODE": "<:Shyvana:915339033742303252>"
+ },
+ {
+   "ID": "Singed",
+   "EMOJIREVEALER": "\\:Singed:",
+   "KEY": 27,
+   "EMOJICODE": "<:Singed:915339033780039720>"
+ },
+ {
+   "ID": "Sion",
+   "EMOJIREVEALER": "\\:Sion:",
+   "KEY": 14,
+   "EMOJICODE": "<:Sion:915339033905877002>"
+ },
+ {
+   "ID": "Sivir",
+   "EMOJIREVEALER": "\\:Sivir:",
+   "KEY": 15,
+   "EMOJICODE": "<:Sivir:915339033780052038>"
+ },
+ {
+   "ID": "Skarner",
+   "EMOJIREVEALER": "\\:Skarner:",
+   "KEY": 72,
+   "EMOJICODE": "<:Skarner:915339033935237150>"
+ },
+ {
+   "ID": "Sona",
+   "EMOJIREVEALER": "\\:Sona:",
+   "KEY": 37,
+   "EMOJICODE": "<:Sona:915339033880715364>"
+ },
+ {
+   "ID": "Soraka",
+   "EMOJIREVEALER": "\\:Soraka:",
+   "KEY": 16,
+   "EMOJICODE": "<:Soraka:915339033922662491>"
+ },
+ {
+   "ID": "Swain",
+   "EMOJIREVEALER": "\\:Swain:",
+   "KEY": 50,
+   "EMOJICODE": "<:Swain:915339033801027585>"
+ },
+ {
+   "ID": "Sylas",
+   "EMOJIREVEALER": "\\:Sylas:",
+   "KEY": 517,
+   "EMOJICODE": "<:Sylas:915339033926828032>"
+ },
+ {
+   "ID": "Syndra",
+   "EMOJIREVEALER": "\\:Syndra:",
+   "KEY": 134,
+   "EMOJICODE": "<:Syndra:915339033922666536>"
+ },
+ {
+   "ID": "TahmKench",
+   "EMOJIREVEALER": "\\:TahmKench:",
+   "KEY": 223,
+   "EMOJICODE": "<:TahmKench:915339034283376650>"
+ },
+ {
+   "ID": "Taliyah",
+   "EMOJIREVEALER": "\\:Taliyah:",
+   "KEY": 163,
+   "EMOJICODE": "<:Taliyah:915339033910067240>"
+ },
+ {
+   "ID": "Talon",
+   "EMOJIREVEALER": "\\:Talon:",
+   "KEY": 91,
+   "EMOJICODE": "<:Talon:915339033876504576>"
+ },
+ {
+   "ID": "Taric",
+   "EMOJIREVEALER": "\\:Taric:",
+   "KEY": 44,
+   "EMOJICODE": "<:Taric:915339034115584020>"
+ },
+ {
+   "ID": "Teemo",
+   "EMOJIREVEALER": "\\:Teemo:",
+   "KEY": 17,
+   "EMOJICODE": "<:Teemo:915339033763250258>"
+ },
+ {
+   "ID": "Thresh",
+   "EMOJIREVEALER": "\\:Thresh:",
+   "KEY": 412,
+   "EMOJICODE": "<:Thresh:915339034014933052>"
+ },
+ {
+   "ID": "Tristana",
+   "EMOJIREVEALER": "\\:Tristana:",
+   "KEY": 18,
+   "EMOJICODE": "<:Tristana:915339034182713354>"
+ },
+ {
+   "ID": "Trundle",
+   "EMOJIREVEALER": "\\:Trundle:",
+   "KEY": 48,
+   "EMOJICODE": "<:Trundle:915339034631503922>"
+ },
+ {
+   "ID": "Tryndamere",
+   "EMOJIREVEALER": "\\:Tryndamere:",
+   "KEY": 23,
+   "EMOJICODE": "<:Tryndamere:915339034270769242>"
+ },
+ {
+   "ID": "TwistedFate",
+   "EMOJIREVEALER": "\\:TwistedFate:",
+   "KEY": 4,
+   "EMOJICODE": "<:TwistedFate:915339033838768149>"
+ },
+ {
+   "ID": "Twitch",
+   "EMOJIREVEALER": "\\:Twitch:",
+   "KEY": 29,
+   "EMOJICODE": "<:Twitch:915339034249793546>"
+ },
+ {
+   "ID": "Udyr",
+   "EMOJIREVEALER": "\\:Udyr:",
+   "KEY": 77,
+   "EMOJICODE": "<:Udyr:915339033893273672>"
+ },
+ {
+   "ID": "Urgot",
+   "EMOJIREVEALER": "\\:Urgot:",
+   "KEY": 6,
+   "EMOJICODE": "<:Urgot:915339034384007168>"
+ },
+ {
+   "ID": "Varus",
+   "EMOJIREVEALER": "\\:Varus:",
+   "KEY": 110,
+   "EMOJICODE": "<:Varus:915339034342068315>"
+ },
+ {
+   "ID": "Vayne",
+   "EMOJIREVEALER": "\\:Vayne:",
+   "KEY": 67,
+   "EMOJICODE": "<:Vayne:915339034581147708>"
+ },
+ {
+   "ID": "Veigar",
+   "EMOJIREVEALER": "\\:Veigar:",
+   "KEY": 45,
+   "EMOJICODE": "<:Veigar:915339034295943198>"
+ },
+ {
+   "ID": "Velkoz",
+   "EMOJIREVEALER": "\\:Velkoz:",
+   "KEY": 161,
+   "EMOJICODE": "<:Velkoz:915339034400784444>"
+ },
+ {
+   "ID": "Vex",
+   "EMOJIREVEALER": "\\:Vex:",
+   "KEY": 711,
+   "EMOJICODE": "<:Vex:915339034451136532>"
+ },
+ {
+   "ID": "Vi",
+   "EMOJIREVEALER": "\\:Vi:",
+   "KEY": 254,
+   "EMOJICODE": "<:Vi:915339034467926086>"
+ },
+ {
+   "ID": "Viego",
+   "EMOJIREVEALER": "\\:Viego:",
+   "KEY": 234,
+   "EMOJICODE": "<:Viego:915339034463723530>"
+ },
+ {
+   "ID": "Viktor",
+   "EMOJIREVEALER": "\\:Viktor:",
+   "KEY": 112,
+   "EMOJICODE": "<:Viktor:915339034174308434>"
+ },
+ {
+   "ID": "Vladimir",
+   "EMOJIREVEALER": "\\:Vladimir:",
+   "KEY": 8,
+   "EMOJICODE": "<:Vladimir:915339034472120340>"
+ },
+ {
+   "ID": "Volibear",
+   "EMOJIREVEALER": "\\:Volibear:",
+   "KEY": 106,
+   "EMOJICODE": "<:Volibear:915339034480488528>"
+ },
+ {
+   "ID": "Warwick",
+   "EMOJIREVEALER": "\\:Warwick:",
+   "KEY": 19,
+   "EMOJICODE": "<:Warwick:915339034484678656>"
+ },
+ {
+   "ID": "Xayah",
+   "EMOJIREVEALER": "\\:Xayah:",
+   "KEY": 498,
+   "EMOJICODE": "<:Xayah:915339034618900520>"
+ },
+ {
+   "ID": "Xerath",
+   "EMOJIREVEALER": "\\:Xerath:",
+   "KEY": 101,
+   "EMOJICODE": "<:Xerath:915339034535022662>"
+ },
+ {
+   "ID": "XinZhao",
+   "EMOJIREVEALER": "\\:XinZhao:",
+   "KEY": 5,
+   "EMOJICODE": "<:XinZhao:915339034551812167>"
+ },
+ {
+   "ID": "Yasuo",
+   "EMOJIREVEALER": "\\:Yasuo:",
+   "KEY": 157,
+   "EMOJICODE": "<:Yasuo:915339034560172032>"
+ },
+ {
+   "ID": "Yone",
+   "EMOJIREVEALER": "\\:Yone:",
+   "KEY": 777,
+   "EMOJICODE": "<:Yone:915339034291736648>"
+ },
+ {
+   "ID": "Yorick",
+   "EMOJIREVEALER": "\\:Yorick:",
+   "KEY": 83,
+   "EMOJICODE": "<:Yorick:915339034652442674>"
+ },
+ {
+   "ID": "Yuumi",
+   "EMOJIREVEALER": "\\:Yuumi:",
+   "KEY": 350,
+   "EMOJICODE": "<:Yuumi:915339152021671999>"
+ },
+ {
+   "ID": "Zac",
+   "EMOJIREVEALER": "\\:Zac:",
+   "KEY": 154,
+   "EMOJICODE": "<:Zac:915339152629825617>"
+ },
+ {
+   "ID": "Zed",
+   "EMOJIREVEALER": "\\:Zed:",
+   "KEY": 238,
+   "EMOJICODE": "<:Zed:915339152864714853>"
+ },
+ {
+   "ID": "Ziggs",
+   "EMOJIREVEALER": "\\:Ziggs:",
+   "KEY": 115,
+   "EMOJICODE": "<:Ziggs:915339152835358740>"
+ },
+ {
+   "ID": "Zilean",
+   "EMOJIREVEALER": "\\:Zilean:",
+   "KEY": 26,
+   "EMOJICODE": "<:Zilean:915339152864739358>"
+ },
+ {
+   "ID": "Zoe",
+   "EMOJIREVEALER": "\\:Zoe:",
+   "KEY": 142,
+   "EMOJICODE": "<:Zoe:915339152906657895>"
+ },
+ {
+   "ID": "Zyra",
+   "EMOJIREVEALER": "\\:Zyra:",
+   "KEY": 143,
+   "EMOJICODE": "<:Zyra:915339152814407730>"
+ }
+]
